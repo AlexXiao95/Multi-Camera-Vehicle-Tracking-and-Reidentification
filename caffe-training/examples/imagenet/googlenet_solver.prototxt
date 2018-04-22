@@ -1,0 +1,20 @@
+net: "examples/imagenet/googlenet_train_val.prototxt"
+test_iter: 1000
+test_interval: 2000
+update_interval: 2
+test_initialization: false
+display: 40
+base_lr: 0.01
+lr_policy: "poly"
+power: 0.5
+#lr_pocily: "step"
+#stepsize: 320000
+#gamma: 0.96
+max_iter: 2400000
+momentum: 0.9
+weight_decay: 0.0002
+snapshot: 40000
+snapshot_prefix: "/media/DataDisk/sqiu/models/googlenet/bvlc_googlenet"
+solver_mode: GPU 
+device_id: [0, 1]
+random_seed: 519134322723416835

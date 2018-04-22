@@ -1,0 +1,31 @@
+# googlenet, v4
+# Hongyang Li, 2015.2.6
+# implemented on lab-pc
+
+
+net: "./train_val_googlenet_attr_disc.prototxt"
+test_iter: 500
+test_interval: 500 #quick test
+test_initialization: false
+
+
+max_iter: 6000		#
+base_lr: 0.001			# BLVC
+lr_policy: "step"
+gamma: 0.1
+stepsize: 3000
+
+momentum: 0.9			# as paper suggests
+weight_decay: 0.0002 	# BLVC
+display: 20
+
+# 5k is a wise choise
+snapshot: 10000
+snapshot_prefix: "results/googlenet_finetune_attr_disc"
+solver_mode: GPU
+
+
+update_interval: 2
+device_id: [2,3]  
+
+random_seed: 34234562302122     

@@ -1,0 +1,10 @@
+This part of code is used for the car model verification task in the paper:
+
+Yang, L., Luo, P., Loy, C. C., & Tang, X. A Large-Scale Car Dataset for Fine-Grained Categorization and Verification. In CVPR 2015.
+
+To use the code, you need to first extract the features in the last fully connected layer of your network for the training/testing data and convert them to MAT files. They are referred as "{$network}_finetune_verification_train" and "{$network}_finetune_verification_test_{1,2,3}" in the matlab code.
+
+leveldb2mat.py is a tool to convert leveldb database to MAT file, please use it as you like.
+
+Joint Bayesian code is included and please download SVM code at: http://www.csie.ntu.edu.tw/~cjlin/libsvm
+
