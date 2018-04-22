@@ -1,4 +1,4 @@
-# Vehicle Re-identification
+# Multi-Camera Vehicle Tracking and Re-identification
 
 This is an implementation of vehicle re-identification for Task 3 in NVIDIA AI City Challenge. Please find the full source code [here](https://github.com/NVIDIAAICITYCHALLENGE/2018AICity_TeamUW).
 
