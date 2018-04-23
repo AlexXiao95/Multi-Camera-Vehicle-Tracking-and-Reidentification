@@ -21,9 +21,10 @@ The code has been tested on Ubuntu 16.04.
 ### Dataset
 
 #### [Track 3 dataset](https://www.aicitychallenge.org/?page_id=9)
-The track 3 dataset contains 15 videos from 4 different locations, each around 0.5-1.5 hours long, recorded at 30 fps and 1080p resolution (1920×1080). The task is to identify all vehicles that pass through each recorded location at least once in the given set of videos. The camera views and linked areas are shown below:
+The track 3 dataset contains 15 videos from 4 different locations, each around 0.5-1.5 hours long, recorded at 30 fps and 1080p resolution (1920×1080). The task is to identify all vehicles that pass through each recorded location at least once in the given set of videos. The camera locations and linked areas are shown below:
 
-![](LinkMap.png)
+![](CameraLocation.png)
+![](CameraView.png)
 
 #### [UA-DETRAC dataset](https://detrac-db.rit.albany.edu/Detection)
 ![](DETRAC.png)
