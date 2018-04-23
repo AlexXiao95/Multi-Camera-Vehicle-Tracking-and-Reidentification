@@ -1,7 +1,7 @@
 # Multi-Camera Vehicle Tracking and Re-identification
 
 
-This repository contains our source code of Track 3 in the [NVIDIA AI City Challenge](https://www.aicitychallenge.org) Workshop at [CVPR 2018](http://cvpr2018.thecvf.com/program/workshops). Please find the full source code of both Track 1 and Track 3 [here](https://github.com/NVIDIAAICITYCHALLENGE/2018AICity_TeamUW).
+This repository contains our source code of Track 3 in the [NVIDIA AI City Challenge](https://www.aicitychallenge.org) Workshop at [CVPR 2018](http://cvpr2018.thecvf.com/program/workshops). Please find the full source code of both Track 1 and Track 3 [here](https://github.com/zhengthomastang/2018AICity_TeamUW).
 
 ## How It Works
 We achieved Multi-Camera Vehicle Tracking and Re-identification based on a fusion of histogram-based adaptive appearance models, DCNN features, detected license plates, detected car types and traveling time information.
