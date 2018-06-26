@@ -24,13 +24,13 @@ The code has been tested on Ubuntu 16.04.
 The track 3 dataset contains 15 videos from 4 different locations, each around 0.5-1.5 hours long, recorded at 30 fps and 1080p resolution (1920×1080). The task is to identify all vehicles that pass through each recorded location at least once in the given set of videos. The camera locations and linked areas are shown below:
 
 <div  align="center"> 
-<img src="data/CameraLocation.png", width="400">
-<img src="data/CameraView.png", width="400">
+<img src="data/CameraLocation.png", width="500">
+<img src="data/CameraView.png", width="500">
 </div>
 
 #### [UA-DETRAC dataset](https://detrac-db.rit.albany.edu/Detection)
 <div  align="center"> 
-<img src="data/DETRAC.png", width="400">
+<img src="data/DETRAC.png", width="500">
 </div>
 
 The UA-DETRAC dataset includes 10 hours of videos captured with a Canon EOS 550D camera at 24 different locations at Beijing and Tianjin in China. The videos are recorded at 25 frames per seconds (fps), with resolution of 960×540 pixels. There are more than 140 thousand frames in the UA-DETRAC dataset and 8250 vehicles that are manually annotated, leading to a total of 1.21 million labeled bounding boxes of objects. The primary aim of this dataset is to train vehicle detection algorithms.
@@ -38,7 +38,7 @@ The UA-DETRAC dataset includes 10 hours of videos captured with a Canon EOS 550D
 
 #### [CompCars dataset](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
 <div  align="center"> 
-<img src="data/CompCars.png", width="400">
+<img src="data/CompCars.png", width="500">
 </div>
 The Comprehensive Cars (CompCars) dataset contains data from two scenarios, including images from web-nature and surveillance-nature. The web-nature data contains 163 car makes with 1,716 car models. The dataset is well prepared for the following computer vision tasks:
 
@@ -50,7 +50,7 @@ You can find a pre-trained model [here](https://github.com/BVLC/caffe/wiki/Model
 
 #### [BoxCars dataset](https://medusa.fit.vutbr.cz/traffic/research-topics/fine-grained-vehicle-recognition/boxcars-improving-vehicle-fine-grained-recognition-using-3d-bounding-boxes-in-traffic-surveillance/)
 <div  align="center"> 
-<img src="data/BoxCars.png", width="400">
+<img src="data/BoxCars.png", width="500">
 </div>
 The BoxCars dataset contains 116k of images of vehicles with fine-grained labels taken from surveillance cameras under various viewpoints.
 
@@ -79,9 +79,9 @@ The output is all possible candidates which will be used for [license plate comp
 
 ### Demo
 <div  align="center"> 
-<img src="data/demo1.png", width="400">
-<img src="data/demo2.png", width="400">
-<img src="data/demo3.png", width="400">
+<img src="data/demo1.png", width="500">
+<img src="data/demo2.png", width="500">
+<img src="data/demo3.png", width="500">
 </div>
 The demo videos of both track 1 and track 3 can be viewed [here](http://allison.ee.washington.edu/thomas/aicity18/).
 
