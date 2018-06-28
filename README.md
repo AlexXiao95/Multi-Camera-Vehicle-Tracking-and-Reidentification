@@ -77,13 +77,13 @@ The output is all possible candidates which will be used for [license plate comp
 * \<similarity\> is the similarity between probe vehicle and gallery vehicle based on a fusion of histogram-based adaptive appearance models, DCNN features, detected car types and traveling time information. 
 
 
-### Demo
+### Demo[[video](http://allison.ee.washington.edu/thomas/aicity18/)]
 <div  align="center"> 
 <img src="data/demo1.png", width="500">
 <img src="data/demo2.png", width="500">
 <img src="data/demo3.png", width="500">
 </div>
-The demo videos of both track 1 and track 3 can be viewed [here](http://allison.ee.washington.edu/thomas/aicity18/).
+
 
 ## Reference
 
