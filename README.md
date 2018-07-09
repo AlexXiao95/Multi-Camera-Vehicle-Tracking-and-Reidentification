@@ -69,7 +69,7 @@ Simply run ``bash src/run_all.sh`` in the command line. The input is single came
 * \<confidence\> denotes the confidence of the prediction. Should be between 0 and 1.
 
 
-The output is all possible candidates which will be used for [license plate comparison](https://github.com/NVIDIAAICITYCHALLENGE/2018AICity_TeamUW/tree/master/Track3/LP_COMP_IPL). The format of each line is as follows:
+The output is all possible candidates which will be used for [license plate comparison](https://github.com/AlexXiao95/2018AICity_TeamUW/tree/master/Track3/LP_COMP_IPL). The format of each line is as follows:
 
 \<img_path\> \<similarity\>
 
