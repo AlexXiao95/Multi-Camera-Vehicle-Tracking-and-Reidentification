@@ -5,6 +5,7 @@ This repository contains our source code of Track 3 in the [NVIDIA AI City Chall
 
 [[Full source code]](https://github.com/AlexXiao95/2018AICity_TeamUW), [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf), [[Poster]](https://alexxiao95.github.io/publications/cvprw/cvpr_poster.pdf), [[Project Page]](https://alexxiao95.github.io/publication/cvpr2018), [[2018 NVIDIA AI City Challenge]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)
 
+
 ## How It Works
 We achieved Multi-Camera Vehicle Tracking and Re-identification based on a fusion of histogram-based adaptive appearance models, DCNN features, detected license plates, detected car types and traveling time information.
 
