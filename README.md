@@ -85,8 +85,12 @@ The output is all possible candidates which will be used for [license plate comp
 * \<similarity\> is the similarity between probe vehicle and gallery vehicle based on a fusion of histogram-based adaptive appearance models, DCNN features, detected car types and traveling time information. 
 
 
-### Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jlvh_KxHl40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Demo [[video]](https://alexxiao95.github.io/publication/cvpr2018)
+ <div  align="center"> 
+ <img src="data/demo1.png", width="500">
+ <img src="data/demo2.png", width="500">
+ <img src="data/demo3.png", width="500">
+ </div>
 
 
 ## Reference
