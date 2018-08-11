@@ -3,7 +3,7 @@
 ##   Copyright (c) 2018 Alex Xiao.  All rights reserved.
 ## 
 ##   Description:
-##       Implementation of calculating apperance features based on trained GoogLeNet.
+##       Implementation of calculating apperance features.
 ## 
 ## -----------------------------------------------------------------------------------
 
